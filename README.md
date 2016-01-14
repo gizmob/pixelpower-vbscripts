@@ -1,1 +1,1 @@
-# pixelpower-vbscripts
+# PixelPower VB Scripts
